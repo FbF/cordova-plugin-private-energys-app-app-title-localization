@@ -39,7 +39,8 @@ SOFTWARE.
 
     <!-- ios -->
     <platform name="ios">
-        <resource-file src="locales/fr.lproj" />
+        <resource-file src="locales/en.lproj" />
+		<resource-file src="locales/fr.lproj" />
     </platform>
 		<!--platform name="android">
 			<resource-file src="res/values/strings.xml" />
