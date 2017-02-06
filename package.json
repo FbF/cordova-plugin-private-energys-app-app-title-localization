@@ -5,7 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-private-energys-app-title-localization",
     "platforms": [
-      "ios", "android"
+      "ios"
     ]
   },
   "repository": {
