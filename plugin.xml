@@ -24,22 +24,22 @@ SOFTWARE.
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-private-santander-app-title-localization"
+    id="cordova-plugin-private-energys-app-app-title-localization"
     version="1.0.0">
 
-    <name>cordova-plugin-private-santander-app-title-localization</name>
+    <name>cordova-plugin-private-energys-app-app-title-localization</name>
 	<description>Private</description>
     <engines>
         <engine name="cordova" version=">=2.4.0" />
     </engines>
-    <repo>https://github.com/meumobi/cordova-plugin-private-santander-app-title-localization.git</repo>
+    <repo>https://github.com/FbF/cordova-plugin-private-energys-app-app-title-localization.git</repo>
 
 	<license>MIT</license>
     <keywords></keywords>
 
     <!-- ios -->
-    <platform name="ios">	
-        <resource-file src="locales/pt.lproj" />
+    <platform name="ios">
+        <resource-file src="locales/fr.lproj" />
     </platform>
 		<!--platform name="android">
 			<resource-file src="res/values/strings.xml" />

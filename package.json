@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-private-santander-app-title-localization",
+  "name": "cordova-plugin-private-energys-app-app-title-localization",
   "version": "1.0.0",
   "description": "private",
   "cordova": {
-    "id": "cordova-plugin-private-santander-app-title-localization",
+    "id": "cordova-plugin-private-energys-app-app-title-localization",
     "platforms": [
       "ios", "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/meumobi/cordova-plugin-private-santander-app-title-localization.git"
+    "url": "https://github.com/FbF/cordova-plugin-private-energys-app-app-title-localization.git"
   },
   "author": "Devin Garner <DevinGarner@gmail.com>",
   "license": "MIT",
