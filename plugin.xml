@@ -45,7 +45,6 @@ SOFTWARE.
 		<resource-file src="locales/pt.lproj" />
 		<resource-file src="locales/it.lproj" />
 		<resource-file src="locales/pl.lproj" />
-		<resource-file src="locales/nl.lproj" />
     </platform>
 		<!--platform name="android">
 			<resource-file src="res/values/strings.xml" />
